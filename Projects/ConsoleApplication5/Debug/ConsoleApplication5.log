@@ -1,0 +1,3 @@
+﻿  first.c
+c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication5\first.c(10): warning C4013: 'system' undefined; assuming extern returning int
+  ConsoleApplication5.vcxproj -> c:\users\e3rul_000\documents\visual studio 2012\Projects\ConsoleApplication5\Debug\ConsoleApplication5.exe

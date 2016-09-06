@@ -1,0 +1,47 @@
+﻿Build started 7/15/2014 1:14:17 PM.
+     1>Project "C:\Users\e3rul_000\documents\visual studio 2012\Projects\ConsoleApplication12\ConsoleApplication12\ConsoleApplication12.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt ..\main.c ..\Object.c ..\World.c
+         World.c
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication12\object.h(38): error C2061: syntax error : identifier 'checkSave'
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication12\object.h(38): error C2059: syntax error : ';'
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication12\object.h(38): error C2059: syntax error : 'type'
+         Object.c
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication12\object.h(38): error C2061: syntax error : identifier 'checkSave'
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication12\object.h(38): error C2059: syntax error : ';'
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication12\object.h(38): error C2059: syntax error : 'type'
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication12\object.c(101): error C2061: syntax error : identifier 'checkSave'
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication12\object.c(101): error C2059: syntax error : ';'
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication12\object.c(101): error C2059: syntax error : 'type'
+         main.c
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication12\object.h(38): error C2061: syntax error : identifier 'checkSave'
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication12\object.h(38): error C2059: syntax error : ';'
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication12\object.h(38): error C2059: syntax error : 'type'
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication12\main.c(11): warning C4013: 'checkSave' undefined; assuming extern returning int
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication12\main.c(14): error C2275: 'Object' : illegal use of this type as an expression
+                 c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication12\object.h(23) : see declaration of 'Object'
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication12\main.c(14): error C2065: 'character' : undeclared identifier
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication12\main.c(22): error C2275: 'Object' : illegal use of this type as an expression
+                 c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication12\object.h(23) : see declaration of 'Object'
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication12\main.c(22): error C2065: 'character' : undeclared identifier
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication12\main.c(23): error C2065: 'character' : undeclared identifier
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication12\main.c(23): warning C4047: 'function' : 'Object *' differs in levels of indirection from 'int'
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication12\main.c(23): warning C4024: 'changePos' : different types for formal and actual parameter 1
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication12\main.c(24): error C2065: 'character' : undeclared identifier
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication12\main.c(24): warning C4047: 'function' : 'Object *' differs in levels of indirection from 'int'
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication12\main.c(24): warning C4024: 'changePos' : different types for formal and actual parameter 1
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication12\main.c(25): error C2065: 'character' : undeclared identifier
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication12\main.c(25): warning C4047: 'function' : 'Object *' differs in levels of indirection from 'int'
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication12\main.c(25): warning C4024: 'changePos' : different types for formal and actual parameter 1
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication12\main.c(26): error C2065: 'character' : undeclared identifier
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication12\main.c(26): warning C4047: 'function' : 'Object *' differs in levels of indirection from 'int'
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication12\main.c(26): warning C4024: 'changePos' : different types for formal and actual parameter 1
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication12\main.c(27): error C2065: 'character' : undeclared identifier
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication12\main.c(27): warning C4047: 'function' : 'Object *' differs in levels of indirection from 'int'
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication12\main.c(27): warning C4024: 'changePos' : different types for formal and actual parameter 1
+         Generating Code...
+     1>Done Building Project "C:\Users\e3rul_000\documents\visual studio 2012\Projects\ConsoleApplication12\ConsoleApplication12\ConsoleApplication12.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.15

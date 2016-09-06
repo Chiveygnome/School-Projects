@@ -1,0 +1,52 @@
+﻿Build started 7/3/2014 1:05:17 PM.
+     1>Project "C:\Users\e3rul_000\documents\visual studio 2012\Projects\DoubleLinkedList\DoubleLinkedList\DoubleLinkedList.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt DoubleLinkedList.c main.c
+         main.c
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\main.c(62): error C2275: 'DoubleLinkedList' : illegal use of this type as an expression
+                 c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\doublelinkedlist.h(30) : see declaration of 'DoubleLinkedList'
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\main.c(62): error C2065: 'half' : undeclared identifier
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\main.c(65): error C2065: 'half' : undeclared identifier
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\main.c(65): warning C4047: 'function' : 'DoubleLinkedList *' differs in levels of indirection from 'int'
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\main.c(65): warning C4024: 'printDList' : different types for formal and actual parameter 1
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\main.c(70): error C2275: 'DoubleLinkedList' : illegal use of this type as an expression
+                 c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\doublelinkedlist.h(30) : see declaration of 'DoubleLinkedList'
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\main.c(70): error C2065: 'reverse' : undeclared identifier
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\main.c(73): error C2065: 'reverse' : undeclared identifier
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\main.c(73): warning C4047: 'function' : 'DoubleLinkedList *' differs in levels of indirection from 'int'
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\main.c(73): warning C4024: 'printDList' : different types for formal and actual parameter 1
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\main.c(78): error C2065: 'reverse' : undeclared identifier
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\main.c(78): error C2223: left of '->elementSize' must point to struct/union
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\main.c(79): error C2065: 'reverse' : undeclared identifier
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\main.c(79): warning C4047: 'function' : 'DoubleLinkedList *' differs in levels of indirection from 'int'
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\main.c(79): warning C4024: 'removeDList' : different types for formal and actual parameter 1
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\main.c(82): error C2065: 'reverse' : undeclared identifier
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\main.c(82): warning C4047: 'function' : 'DoubleLinkedList *' differs in levels of indirection from 'int'
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\main.c(82): warning C4024: 'printDList' : different types for formal and actual parameter 1
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\main.c(87): error C2275: 'Object' : illegal use of this type as an expression
+                 c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\doublelinkedlist.h(16) : see declaration of 'Object'
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\main.c(87): error C2146: syntax error : missing ';' before identifier 'data'
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\main.c(87): error C2065: 'data' : undeclared identifier
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\main.c(87): warning C4047: '=' : 'int' differs in levels of indirection from 'Object'
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\main.c(89): error C2065: 'data' : undeclared identifier
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\main.c(89): warning C4022: 'printElement' : pointer mismatch for actual parameter 1
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\main.c(96): error C2065: 'reverse' : undeclared identifier
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\main.c(96): warning C4047: 'function' : 'DoubleLinkedList *' differs in levels of indirection from 'int'
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\main.c(96): warning C4024: 'releaseDList' : different types for formal and actual parameter 1
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\main.c(97): error C2065: 'half' : undeclared identifier
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\main.c(97): warning C4047: 'function' : 'DoubleLinkedList *' differs in levels of indirection from 'int'
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\main.c(97): warning C4024: 'releaseDList' : different types for formal and actual parameter 1
+         DoubleLinkedList.c
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\doublelinkedlist.c(144): error C2275: 'uint' : illegal use of this type as an expression
+                 c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\doublelinkedlist.h(14) : see declaration of 'uint'
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\doublelinkedlist.c(144): error C2146: syntax error : missing ';' before identifier 'pos'
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\doublelinkedlist.c(144): error C2065: 'pos' : undeclared identifier
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\doublelinkedlist.c(145): error C2065: 'pos' : undeclared identifier
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\doublelinkedlist.c(145): warning C4018: '<=' : signed/unsigned mismatch
+     1>c:\users\e3rul_000\documents\visual studio 2012\projects\doublelinkedlist\doublelinkedlist\doublelinkedlist.c(148): error C2065: 'pos' : undeclared identifier
+         Generating Code...
+     1>Done Building Project "C:\Users\e3rul_000\documents\visual studio 2012\Projects\DoubleLinkedList\DoubleLinkedList\DoubleLinkedList.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.14

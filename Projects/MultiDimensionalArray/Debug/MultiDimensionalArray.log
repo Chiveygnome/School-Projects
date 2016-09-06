@@ -1,0 +1,3 @@
+﻿  MultiDemArray.c
+c:\users\e3rul_000\documents\visual studio 2012\projects\multidimensionalarray\multidemarray.c(44): warning C4013: 'system' undefined; assuming extern returning int
+  MultiDimensionalArray.vcxproj -> C:\Users\e3rul_000\documents\visual studio 2012\Projects\MultiDimensionalArray\Debug\MultiDimensionalArray.exe

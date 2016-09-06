@@ -1,0 +1,6 @@
+﻿  Name.c
+c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication8\name.c(11): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(261) : see declaration of 'gets'
+c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication8\name.c(13): warning C4018: '<' : signed/unsigned mismatch
+c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication8\name.c(24): warning C4013: 'system' undefined; assuming extern returning int
+  ConsoleApplication8.vcxproj -> C:\Users\e3rul_000\Documents\Visual Studio 2012\Projects\ConsoleApplication8\Debug\ConsoleApplication8.exe

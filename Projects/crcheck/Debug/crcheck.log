@@ -1,0 +1,14 @@
+﻿  crcheck.cpp
+c:\users\e3rul_000\documents\visual studio 2012\projects\crcheck\crcheck.cpp(106): warning C4018: '<' : signed/unsigned mismatch
+c:\users\e3rul_000\documents\visual studio 2012\projects\crcheck\crcheck.cpp(143): warning C4018: '<' : signed/unsigned mismatch
+c:\users\e3rul_000\documents\visual studio 2012\projects\crcheck\crcheck.cpp(260): warning C4018: '<' : signed/unsigned mismatch
+c:\users\e3rul_000\documents\visual studio 2012\projects\crcheck\crcheck.cpp(287): warning C4018: '<' : signed/unsigned mismatch
+c:\users\e3rul_000\documents\visual studio 2012\projects\crcheck\crcheck.cpp(299): warning C4018: '<' : signed/unsigned mismatch
+c:\users\e3rul_000\documents\visual studio 2012\projects\crcheck\crcheck.cpp(301): warning C4018: '<' : signed/unsigned mismatch
+c:\users\e3rul_000\documents\visual studio 2012\projects\crcheck\crcheck.cpp(309): warning C4018: '<' : signed/unsigned mismatch
+c:\users\e3rul_000\documents\visual studio 2012\projects\crcheck\crcheck.cpp(311): warning C4018: '>' : signed/unsigned mismatch
+c:\users\e3rul_000\documents\visual studio 2012\projects\crcheck\crcheck.cpp(319): warning C4018: '<' : signed/unsigned mismatch
+c:\users\e3rul_000\documents\visual studio 2012\projects\crcheck\crcheck.cpp(323): warning C4018: '<' : signed/unsigned mismatch
+c:\users\e3rul_000\documents\visual studio 2012\projects\crcheck\crcheck.cpp(333): warning C4018: '>=' : signed/unsigned mismatch
+c:\users\e3rul_000\documents\visual studio 2012\projects\crcheck\crcheck.cpp(275): warning C4715: 'hexValid' : not all control paths return a value
+  crcheck.vcxproj -> C:\Users\e3rul_000\documents\visual studio 2012\Projects\crcheck\Debug\crcheck.exe

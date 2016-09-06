@@ -1,0 +1,3 @@
+﻿  Looping.c
+c:\users\e3rul_000\documents\visual studio 2012\projects\consoleapplication6\looping.c(14): warning C4013: 'system' undefined; assuming extern returning int
+  ConsoleApplication6.vcxproj -> C:\Users\e3rul_000\documents\visual studio 2012\Projects\ConsoleApplication6\Debug\ConsoleApplication6.exe

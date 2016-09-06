@@ -1,0 +1,97 @@
+﻿Build started 11/21/2014 11:26:44 AM.
+     1>Project "C:\Users\Ernest Wheaton\documents\visual studio 2012\Projects\BSTree\BSTree\BSTree.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt BSTree.c
+         BSTree.c
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(5): error C2061: syntax error : identifier 'Node'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(6): error C2143: syntax error : missing '{' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(7): error C2059: syntax error : '}'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(9): error C2143: syntax error : missing '{' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(10): error C2143: syntax error : missing ')' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(10): error C2143: syntax error : missing '{' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(10): error C2059: syntax error : ','
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(10): error C2059: syntax error : ')'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(11): error C2143: syntax error : missing ')' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(11): error C2143: syntax error : missing '{' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(11): error C2059: syntax error : ','
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(11): error C2059: syntax error : ')'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(12): error C2143: syntax error : missing ')' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(12): error C2143: syntax error : missing '{' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(12): error C2059: syntax error : ','
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(12): error C2059: syntax error : ')'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(13): error C2143: syntax error : missing ')' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(13): error C2143: syntax error : missing '{' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(13): error C2059: syntax error : ','
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(13): error C2059: syntax error : ')'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(14): error C2143: syntax error : missing ')' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(14): error C2143: syntax error : missing '{' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(14): error C2059: syntax error : ')'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(14): error C2059: syntax error : ';'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(15): error C2143: syntax error : missing ')' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(15): error C2143: syntax error : missing '{' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(15): error C2059: syntax error : ')'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(15): error C2059: syntax error : ';'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(16): error C2143: syntax error : missing ')' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(16): error C2081: 'Node' : name in formal parameter list illegal
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(16): error C2143: syntax error : missing '{' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(16): error C2059: syntax error : ','
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(16): error C2059: syntax error : ')'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(17): error C2143: syntax error : missing '{' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(17): error C2143: syntax error : missing ')' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(17): error C2081: 'Node' : name in formal parameter list illegal
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(17): error C2059: syntax error : ')'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.h(17): error C2059: syntax error : ';'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(2): error C2143: syntax error : missing '{' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(4): error C2065: 'Node' : undeclared identifier
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(4): error C2065: 'newNode' : undeclared identifier
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(4): error C2059: syntax error : ')'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(5): error C2065: 'newNode' : undeclared identifier
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(5): error C2223: left of '->data' must point to struct/union
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(6): error C2065: 'newNode' : undeclared identifier
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(6): error C2223: left of '->Left' must point to struct/union
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(7): error C2065: 'newNode' : undeclared identifier
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(7): error C2223: left of '->Right' must point to struct/union
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(8): error C2065: 'newNode' : undeclared identifier
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(8): warning C4047: 'return' : 'int *' differs in levels of indirection from 'int'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(10): error C2143: syntax error : missing ')' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(10): error C2143: syntax error : missing '{' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(10): error C2143: syntax error : missing ';' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(10): error C2059: syntax error : ')'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(11): error C2054: expected '(' to follow 'b'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(19): error C2143: syntax error : missing ')' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(19): error C2143: syntax error : missing '{' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(19): error C2059: syntax error : 'type'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(19): error C2059: syntax error : ')'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(28): error C2143: syntax error : missing ')' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(28): error C2143: syntax error : missing '{' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(28): error C2143: syntax error : missing ';' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(28): error C2059: syntax error : ')'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(29): error C2054: expected '(' to follow 'a'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(58): error C2143: syntax error : missing ')' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(58): error C2143: syntax error : missing '{' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(58): error C2059: syntax error : 'type'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(58): error C2059: syntax error : ')'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(69): error C2143: syntax error : missing ')' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(69): error C2143: syntax error : missing '{' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(69): error C2059: syntax error : ')'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(70): error C2054: expected '(' to follow 'root'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(76): error C2143: syntax error : missing ')' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(76): error C2143: syntax error : missing '{' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(76): error C2059: syntax error : ')'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(77): error C2054: expected '(' to follow 'root'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(83): error C2143: syntax error : missing ')' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(83): error C2081: 'Node' : name in formal parameter list illegal
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(83): error C2143: syntax error : missing '{' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(83): error C2143: syntax error : missing ';' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(83): error C2059: syntax error : ')'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(84): error C2054: expected '(' to follow 'Root'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(157): error C2143: syntax error : missing '{' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(157): error C2143: syntax error : missing ')' before '*'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(157): error C2081: 'Node' : name in formal parameter list illegal
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(157): error C2059: syntax error : ')'
+     1>c:\users\ernest wheaton\documents\visual studio 2012\projects\bstree\bstree\bstree.c(158): error C2054: expected '(' to follow 'root'
+     1>Done Building Project "C:\Users\Ernest Wheaton\documents\visual studio 2012\Projects\BSTree\BSTree\BSTree.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:04.66
